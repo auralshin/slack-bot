@@ -1,0 +1,26 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "I'll figure out",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auralshin/slack-bot.git"
+  },
+  "keywords": [
+    "start"
+  ],
+  "author": "Anshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/auralshin/slack-bot/issues"
+  },
+  "homepage": "https://github.com/auralshin/slack-bot#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "slackbots": "^1.2.0"
+  }
+}
